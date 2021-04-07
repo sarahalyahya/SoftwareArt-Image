@@ -23,7 +23,7 @@ I browsed through numerous pictures of tiles and created a bunch of sketches by 
  
  For the color palette, I used a picture of a ceramic tile for the color palette. 
  </br>
- <img src = Assignment1/bin/data/ColorPalette.png >
+ <img src = Assignment1/bin/data/ColorPalette1.png >
  
 <h3>Reflection</h3>
  This was a really fun assignment to work on! I'm mostly satisfied with the visual output, but I would've liked my code to be a bit less hardcoded. Although I used reference variables, I think having separate classes for each element of the grid or global variables could've been more organized. 
