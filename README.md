@@ -29,6 +29,9 @@ I browsed through numerous pictures of tiles and created a bunch of sketches by 
  This was a really fun assignment to work on! I'm mostly satisfied with the visual output, but I would've liked my code to be a bit less hardcoded. Although I used reference variables, I think having separate classes for each element of the grid or global variables could've been more organized. 
  There are some elements in the code that I'm still a bit confused about. I managed to work around them, but I will be reviewing the code to gain more clairty on why certain elements behave they do when coded that way. 
  
+ <h3>a different result!</h3>
+ <img src = Assignment1/bin/data/screenshotColorChange.png>
+ 
  
  
  
