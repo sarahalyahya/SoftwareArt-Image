@@ -1,4 +1,5 @@
 <h1>Simple Cyclical Animation</h1>
+<img src = bin/data/ss.PNG>
 
 When I read the word "Cyclical" in the sketch instructions, I immediately thought of a spinning globe and decided to base my sketch on that idea. My sketch is quite simple, it's a spinning sphere and flashing circles, in an attempt to resemble a globe and stars. 
 
