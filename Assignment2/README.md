@@ -17,19 +17,20 @@ As for the band visuals, here are some stills and cover art so you can get the g
 <h3>Process</h3>
 In my old sketch, I had used Perlin noise to simulate a wave movement. Considering that these waves and trippy shapes are a common theme in my inspiration visuals it seemed fitting to base my assignment on it this time. I started with a very basic noise grid 
 </br>
-``` for (int x = 0; x < ofGetWidth() * 2; x++) {
-		for (int y = 0; y < ofGetHeight() * 2; y++) {
+``` 
+for (int x = 0; x < ofGetWidth() * 2; x++) {
+	for (int y = 0; y < ofGetHeight() * 2; y++) {
 
-			//generating a (not-so-random) value so that the tiny lines have some relation to each other 
-			float val = ofNoise(x * noise + randX, y * noise + randY); // larger decimal value = noisier the shape is
-			if (int(val * frequency) % 4 == 0) { //frequency / range (smaller multiplication by n = blobbier shape / less range)
-				ofDrawLine(x, y, x + 1, y + 1); //tiny line resembling a point
+		//generating a (not-so-random) value so that the tiny lines have some relation to each other 
+		float val = ofNoise(x * noise + randX, y * noise + randY); // larger decimal value = noisier the shape is
+		if (int(val * frequency) % 4 == 0) { //frequency / range (smaller multiplication by n = blobbier shape / less range)
+			ofDrawLine(x, y, x + 1, y + 1); //tiny line resembling a point
 
 
 			} 
       ```
  </br>
- <h1>test</h1>
+As you can see, I'm using a modulo if-statement to scatter the tiny lines all over.
 
       
       
