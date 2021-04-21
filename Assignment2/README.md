@@ -15,6 +15,7 @@ As for the band visuals, here are some stills and cover art so you can get the g
 <img src = bin/data/eventuallyTameImpala.jpg width= 50% height = 50%>
 
 <h3>Process</h3>
+<h4> ~ waves ~ </h4>
 In my old sketch, I had used Perlin noise to simulate a wave movement. Considering that these waves and trippy shapes are a common theme in my inspiration visuals it seemed fitting to base my assignment on it this time. I started with a very basic noise grid 
 </br>
 ``` 
@@ -29,8 +30,11 @@ for (int x = 0; x < ofGetWidth() * 2; x++) {
 
 			} 
  </br>
-As you can see, I'm using a modulo if-statement to scatter the tiny lines all over.
+As you can see, I'm using a modulo if-statement to scatter the tiny lines all over. After setting up a basic noise grid, I started playing around with noise values to realized that the smaller the noise value the more relation there is between the tiny lines. 
+<img src = bin/data/process.png >
+This led me to the wavy/cicular shapes in the background. Basically, as I played around with the variables I slowly started to understand what was happening more and more, and tinkered with my code until I achieved the desired outcome. 
 
+<h4>Silhouette & Circles</h4>
       
       
 
