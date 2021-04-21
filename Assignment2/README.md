@@ -1,6 +1,6 @@
 <h1>Assignment 2 - Motion: Experiments with Perlin Noise</h1>
 <h3>Still</h3>
-<img src = bin/data/still.png>
+<img src = bin/data/Still.png>
 <h3>Link</h3>
 https://youtu.be/1sbha64iXPg
 
