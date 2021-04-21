@@ -28,7 +28,6 @@ for (int x = 0; x < ofGetWidth() * 2; x++) {
 
 
 			} 
-      ```
  </br>
 As you can see, I'm using a modulo if-statement to scatter the tiny lines all over.
 
