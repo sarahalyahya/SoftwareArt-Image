@@ -2,7 +2,7 @@
  <h3> Link </h3>
  https://youtu.be/ZKo50C-Dbmk
 
-<h3>Song credits</h3>
+<h3>Song Credits</h3>
 Sweet Disposition by The Temper Trap
 
 <h3> Stills <h3>
