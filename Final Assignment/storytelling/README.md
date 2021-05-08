@@ -2,7 +2,8 @@
  <h3> Link </h3>
  https://youtu.be/ZKo50C-Dbmk
 
-Song credits: Sweet Disposition by The Temper Trap
+<h3>Song credits</h3>
+Sweet Disposition by The Temper Trap
 
 <h3> Stills <h3>
   <img src= bin/data/still1.jpg width = 70% height = 70%>
